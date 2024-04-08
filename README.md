@@ -1,0 +1,2 @@
+# Switzerland
+Switzerland.pypi
